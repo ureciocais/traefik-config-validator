@@ -23,7 +23,7 @@ import (
 
 	"github.com/xeipuuv/gojsonschema"
 
-	"github.com/otto-de/traefik-config-validator/pkg/utils"
+	"github.com/ureciocais/traefik-config-validator/pkg/utils"
 )
 
 const (

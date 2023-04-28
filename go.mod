@@ -1,4 +1,4 @@
-module github.com/otto-de/traefik-config-validator
+module github.com/ureciocais/traefik-config-validator
 
 go 1.17
 

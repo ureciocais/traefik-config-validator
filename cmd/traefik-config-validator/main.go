@@ -20,7 +20,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/otto-de/traefik-config-validator/pkg/validation"
+	"github.com/ureciocais/traefik-config-validator/pkg/validation"
 )
 
 var (
